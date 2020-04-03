@@ -1,0 +1,39 @@
+Xiphos
+4th Caste
+stats
+Health
+20
+Strength
+14
+Dexterity
+10
+Intelligence
+10
+Will
+0
+Agility
+7
+Stealth
+13
+Scent
+12
+Hearing
+12
+Speech
+3
+ArmorClass
+0
+perks
+Combat training
+All 4rth Caste Corsairs will already have the baseline combat training and will thus have 3 extra days for auxiliary training
+Pain Tolerance
+50% chance to remove the bloodied effect one turn after becoming bloodied
+Intimidating Physique
+The 4rth Caste’s image is ingrained in the minds of the enemies of the Nocturns, weaker foes may flee at the sight, and intimidation is much easier
+inventory
+Sword
+8
+spells
+Javelin
+9 2 0
+done
